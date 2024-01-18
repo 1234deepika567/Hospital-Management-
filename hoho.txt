@@ -13,7 +13,7 @@ cout<<"\t\t@@                                            		                     
 cout<<"\t\t@@                                                                     		           @@\n";
 cout<<"\t\t@@                                   WELCOME TO                                            @@\n";
 cout<<"\t\t@@                                                                                         @@\n";
-cout<<"\t\t@@                          IIIT HOSPITAL MANAGEMENT SEYTEM                                @@\n";
+cout<<"\t\t@@                          NIT HOSPITAL MANAGEMENT SEYTEM                                @@\n";
 cout<<"\t\t@@                                                                                         @@\n";
 cout<<"\t\t@@                                                                                         @@\n";
 cout<<"\t\t@@                                                                                         @@\n";
